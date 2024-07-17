@@ -1,0 +1,36 @@
+nav{
+    background-color: #22610d;
+    color:white;
+    padding:10px;
+}
+nav ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+nav ul li{
+    display:inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color:greenyellow;
+    text-decoration: underline;
+}
+section{
+    padding:20px;
+}
+footer{
+    background-color: blue;
+    color:moccasin;
+    text-align: center;
+    padding:10px 0 ;
+    margin-top: 55vh;
+}
+body{
+    background-image:url(https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/348100/348106.jpg) ;
+    background-size: 155%;
+}
